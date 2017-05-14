@@ -1,0 +1,1 @@
+Simple Calculator application that allows the user to set multiple colors for the background. Written in C# by Keith Becker.
